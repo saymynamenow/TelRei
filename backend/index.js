@@ -10,7 +10,6 @@ const prisma = new PrismaClient();
 const activeInterval = {};
 const endpoint = "https://models.inference.ai.azure.com";
 const modelName = "gpt-4o-mini";
-const token = "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";
 
 bot.on('message', async(msg) =>{
     const chatId = msg.chat.id;
