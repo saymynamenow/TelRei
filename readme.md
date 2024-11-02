@@ -25,7 +25,8 @@ Telegram Bot Playground, you can use this bot anything you want, BTW if you want
 ```
 
 ## Note 
-> For OpenAI key, if you wanna use, just contact me to discord 
+> For OpenAI key, if you wanna use, just contact me to discord
+
 > For prisma DATABASE_URL you must following prisma template url like example, if you run in local u just type in ip localhost
 
 ## Contribution
